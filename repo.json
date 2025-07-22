@@ -1,0 +1,16 @@
+[{
+	"Name": "gtypistsyntax",
+	"Description": "Syntax highlighting for GNU Typist lesson files in the micro text editor.",
+	"Author": "Aki Kareha",
+	"Tags": ["syntax", "gtypist","gnu-typist", "typist", "typ"],
+	"Website": "https://github.com/akikareha/micro-gtypist-syntax",
+	"Versions": [
+		{
+			"Version": "0.0.0",
+			"Url": "https://github.com/akikareha/micro-gtypist-syntax/archive/v0.0.0.zip",
+			"Require": {
+				"micro": ">=2.0.0"
+			}
+		}
+	]
+}]

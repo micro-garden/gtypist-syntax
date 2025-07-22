@@ -1,0 +1,41 @@
+filetype: gtypist
+
+detect:
+    filename: "\\.typ$"
+
+rules:
+    # Comment
+    - comment: "^#.*"
+
+    # Jump
+    - constant: "^G:.*"
+
+    # Anchor
+    - constant: "^\\*:.*"
+
+    # Title
+    - symbol: "^B:.*"
+
+    # Tutor
+    - constant: "^T:"
+
+    # Instruction
+    - type: "^I:.*"
+
+    # Drill
+    - constant: "^D:"
+
+    # Speed
+    - preproc: "^S:"
+
+    # Content
+    - type: "^ :"
+
+    # Question
+    - identifier: "^Q:.*"
+
+    # No
+    - identifier: "^N:.*"
+
+    # Menu
+    - statement: "^M:.*"
