@@ -1,7 +1,7 @@
 # GNU Typist Syntax Plugin
 
-Syntax highlighting for [GNU Typist](https://www.gnu.org/software/gtypist/)
-lesson files (`.typ`) in the micro text editor.
+Syntax highlighting for
+[GNU Typist](https://www.gnu.org/software/gtypist/) lesson files (`.typ`).
 
 ## Features
 
