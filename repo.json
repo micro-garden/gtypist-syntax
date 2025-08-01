@@ -4,6 +4,7 @@
 	"Author": "Aki Kareha",
 	"Tags": ["syntax", "gtypist","gnu-typist", "typist", "typ"],
 	"Website": "https://github.com/akikareha/micro-gtypist-syntax",
+	"License": "MIT",
 	"Versions": [
 		{
 			"Version": "0.0.0",
