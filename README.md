@@ -15,7 +15,7 @@ directly from the GitHub repository:
 
 ```sh
 mkdir -p ~/.config/micro/plug
-git clone https://github.com/akikareha/micro-gtypist-syntax ~/.config/micro/plug/gtypistsyntax
+git clone https://github.com/micro-garden/gtypist-syntax ~/.config/micro/plug/gtypistsyntax
 ```
 
 Then restart micro.

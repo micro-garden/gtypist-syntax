@@ -3,12 +3,12 @@
 	"Description": "Syntax highlighting for GNU Typist lesson files.",
 	"Author": "Aki Kareha",
 	"Tags": ["syntax", "gtypist","gnu-typist", "typist", "typ"],
-	"Website": "https://github.com/akikareha/micro-gtypist-syntax",
+	"Website": "https://github.com/micro-garden/gtypist-syntax",
 	"License": "MIT",
 	"Versions": [
 		{
 			"Version": "0.0.0",
-			"Url": "https://github.com/akikareha/micro-gtypist-syntax/archive/v0.0.0.zip",
+			"Url": "https://github.com/micro-garden/gtypist-syntax/archive/v0.0.0.zip",
 			"Require": {
 				"micro": ">=2.0.0"
 			}
